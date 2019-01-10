@@ -1,3 +1,3 @@
 # chess-board-detection
-Chess board detection using deeplearning
-edit 1
+Chess board detection using openCv
+Gives the next best move using sunfish algorithm
